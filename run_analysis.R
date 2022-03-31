@@ -85,3 +85,4 @@ tidy_data <- data_set %>%
 
 ## Write file
 # write_csv(tidy_data, file = "tidy_data.csv")
+# write.table(tidy_data, file = "tidy_data.txt", row.name = FALSE)
