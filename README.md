@@ -1,10 +1,13 @@
-The **tidy\_data.csv** file in the repo contains the average of each
+README
+=================
+
+The **tidy\_data.txt** file in the repo contains the average of each
 variable for each activity and each subject in the last column. The file
 binds the **train** and the **test** data collected by the **Human
 Activity Recognition Using Smartphones Dataset** which is explained in
 the **Experiments**.
 
-The **tidy\_data.csv** file is the result from:
+The **tidy\_data.txt** file is the result from:
 
 -   Merges the training and the test sets to create one data set.
 
